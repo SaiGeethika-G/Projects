@@ -1,4 +1,5 @@
 # Projects
+## Weather Project
 WeatherAPI project is used display weather data like temperature, description and suitable icon describing the current weather condition in a place.
 The request which is made directly to the root displays the weather data in India by using openweathermap api and NodeJS.
 <p align="center"><img src="https://user-images.githubusercontent.com/79441278/178270631-19c7b040-0eea-4e7d-a8dc-e7952b29d8c6.png" width=600 height=200></p>
