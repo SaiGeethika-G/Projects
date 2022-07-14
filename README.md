@@ -10,5 +10,7 @@ For example the following image shows output when user enters the city name as P
 <p align="center"><img src="https://user-images.githubusercontent.com/79441278/178270930-80b57402-b39f-4e68-8198-70b79f3aaa51.png" width=600 height=200></p>
 <p align="center"><img src="https://user-images.githubusercontent.com/79441278/178271159-235fee58-e533-4d28-b286-1d628ae8cc1d.png" width=600 height=200></p>
 
-
+## BMI Calculator
+The calculator application is used to find the body mass index based on inputs obtained from a form. The form consists of inputs required which are height and weight. 
+Based on the formula bmi=weight/(height)^2 , the result is displayed to the user. This application is built using NodeJS and HTML.
 
